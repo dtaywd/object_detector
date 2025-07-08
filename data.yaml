@@ -1,0 +1,10 @@
+path: data
+train: train/images
+val: validation/images
+nc: 5
+names:
+- Ma
+- Me
+- Pa
+- Sis
+- Whale

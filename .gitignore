@@ -210,3 +210,9 @@ __marimo__/
 data/
 source_images/
 yolo_labels/
+runs/
+
+# others
+Test_photo.jpg
+output.jpg
+yolo11s.pt
